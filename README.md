@@ -25,10 +25,18 @@
 <br />
 <br />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arashactive&show_icons=true&locale=en" alt="arashactive" /></p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=arashactive&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=arashactive&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=arashactive&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
 
 [website]: https://arashdehghani.com
 [youtube]: https://www.youtube.com/channel/UC47Ihw8wzRYaXcQsOulBWRw
 [instagram]: instagram.com/arashd3hghani
 [linkedin]: https://www.linkedin.com/in/ashleyjcallen/
 [twitter]: https://twitter.com/AD_Tehran
+
+
+
