@@ -1,9 +1,7 @@
-![Arash Dehghani - Laravel web developer](https://ashallendesign.co.uk/images/custom/github-profile-rounded.png)
-
 ### Hey, I'm Arash Dehghani! 👋
 
 [![Gmail Badge](https://img.shields.io/badge/-arash.aspx@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:arash.aspx@gmail.com)](mailto:arash.aspx@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-arash-dehghani-56141077?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/arash-dehghani-56141077/)](https://linkedin.com/in/arash-dehghani-56141077/) 
+[![Linkedin Badge](https://img.shields.io/badge/-arash%20dehghani-56141077?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/arash-dehghani-56141077/)](https://linkedin.com/in/arash-dehghani-56141077/) 
 
 
 ## I'm a freelance (PHP) and Laravel web developer for 15 years.
