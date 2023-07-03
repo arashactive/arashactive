@@ -5,7 +5,7 @@
 
 
 ## I'm a freelance (PHP) and Laravel web developer for 15 years.
-- 💥 I build systems and websites for small businesses using Laravel, wordpres, php.
+- 💥 I build systems and websites for small businesses using Laravel, WordPress, PHP.
 - ⚡ I'm open to collaborating on other Laravel projects.
 - 🥅 2023 Goal: Contribute to more open-source projects.
 
@@ -25,8 +25,7 @@
 <br />
 <br />
 
-
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=arashactive&show_icons=true&hide_border=true" />
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arashactive&show_icons=true&locale=en" alt="arashactive" /></p>
 
 [website]: https://arashdehghani.com
 [youtube]: https://www.youtube.com/channel/UC47Ihw8wzRYaXcQsOulBWRw
